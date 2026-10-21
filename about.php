@@ -132,7 +132,7 @@
                      <h2 class="text-4xl sm:text-5xl lg:text-[51px] leading-[1.18]! font-semibold gradient-text"
                          data-sttr-card>Our Mission</h2>
                      <p class="mt-3 sm:mt-5 font-normal text-[16px] leading-normal tracking-[0.1px] text-white/80"
-                         data-sttr-card>At RiteFlow, our mission is to empower every professional with the
+                         data-sttr-card>At Modlus, our mission is to empower every professional with the
                          power of AI. We simplify complex workflows, automate daily tasks, and inspire
                          innovation across all domains — from business to creativity. Our goal is to make AI
                          accessible, reliable, and impactful for everyone, driving smarter and faster
@@ -156,7 +156,7 @@
                      The Core Pillars Of Our Brand Identity
                  </h2>
                  <p class="mt-4 md:mt-5 tracking-[0.1px] text-white/80 overflow-hidden" data-excerpt>
-                     Riteflow combines smart automation, analytics, and real-time insights to streamline how
+                     Modlus combines smart automation, analytics, and real-time insights to streamline how
                      your team works — no matter the
                      industry or size.
                  </p>

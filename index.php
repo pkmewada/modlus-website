@@ -9,7 +9,7 @@
                         <div class="max-w-[500px] lg:max-w-[670px] mx-auto text-center">
                             <span data-subtitle class="badge-button">AI-Powered Productivity</span>
                             <h1 data-title class="font-semibold !leading-[1.2] gradient-text mt-5">Smarter Workflows
-                                Start with <span class="font-instrument italic font-medium">RiteFlow</span></h1>
+                                Start with <span class="font-instrument italic font-medium">Modlus</span></h1>
                             <p data-excerpt
                                 class="mt-2 sm:mt-5 text-base sm:text-lg md:text-xl font-medium tracking-[0.2px] text-offWhite/80">
                                 Unlock the power of AI to automate tasks, boost creativity, and streamline your work—no
@@ -92,8 +92,8 @@
                             <div class="md:max-w-[575px] w-full md:py-5">
                                 <h2 data-title
                                     class="gradient-text text-3xl sm:text-4xl lg:text-5xl xl:text-[51px] font-semibold -tracking-[0.4px] !leading-[1.1]">
-                                    See RiteFlow in Action: Watch Our Tools Shine</h2>
-                                <p data-excerpt class="mt-4 md:mt-5 text-offWhite/80">Play the video to see RiteFlow's
+                                    See Modlus in Action: Watch Our Tools Shine</h2>
+                                <p data-excerpt class="mt-4 md:mt-5 text-offWhite/80">Play the video to see Modlus's
                                     flagship AI suite turn ideas into results. In under a minute, you'll watch workflows
                                     automated, insights revealed, and content created in real time—no coding, no
                                     complexity. Imagine what your team achieves when intelligent tools handle the heavy
@@ -146,12 +146,12 @@
                         <!-- Section Title -->
                         <div class="max-w-[450px] sm:max-w-[520px] lg:max-w-[600px] mx-auto text-center mb-10 sm:mb-12 md:mb-16 xl:mb-20"
                             data-section-title>
-                            <span class="badge-button mb-5 " data-subtitle>Why Choose RiteFlow</span>
+                            <span class="badge-button mb-5 " data-subtitle>Why Choose Modlus</span>
                             <h2 class="gradient-text text-3xl sm:text-4xl lg:text-5xl xl:text-[51px] !leading-[1.2] font-semibold -tracking-[0.4px] overflow-hidden"
                                 data-title>Intuitive AI That Works Beside You, Seamlessly</h2>
                             <p class="mt-4 md:mt-5 text-offWhite/80 overflow-hidden" data-excerpt>Our AI tools are built
                                 to simplify work, spark ideas, and scale with you. From automation to insights, explore
-                                the benefits that set RiteFlow apart.</p>
+                                the benefits that set Modlus apart.</p>
                         </div>
 
                         <div class="flex flex-col gap-5">
@@ -177,7 +177,7 @@
                                                 Automated Customer Interactions</h3>
                                             <div class="my-4 gradient-border w-full h-px"></div>
                                             <p class="text-offWhite/60">Enhance your customer support with AI-driven
-                                                chatbots and virtual assistants. RiteFlow helps you automate
+                                                chatbots and virtual assistants. Modlus helps you automate
                                                 interactions, provide instant replies, and improve response time.</p>
                                         </div>
                                     </div>
@@ -203,7 +203,7 @@
                                                 Notifications Engine</h3>
                                             <div class="my-4 gradient-border w-full h-px"></div>
                                             <p class="text-offWhite/60">Deliver tailored experiences to your users with
-                                                RiteFlow’s recommendation engine. By analyzing user preferences and past
+                                                Modlus’s recommendation engine. By analyzing user preferences and past
                                                 behavior, the AI generates personalized product.</p>
                                         </div>
                                     </div>
@@ -284,7 +284,7 @@
                                                 Smart Workflow Schedule</h3>
                                             <div class="my-4 gradient-border w-full h-px"></div>
                                             <p class="text-offWhite/60">Optimize your business operations by automating
-                                                repetitive tasks and workflows. RiteFlow's AI-driven tools streamline
+                                                repetitive tasks and workflows. Modlus's AI-driven tools streamline
                                                 everything from task management to email.</p>
                                         </div>
                                     </div>
@@ -311,10 +311,10 @@
                             </span>
                             <h2 class="gradient-text text-3xl sm:text-4xl lg:text-5xl xl:text-[51px] leading-[1.2]! font-semibold tracking-[-0.4px] overflow-hidden"
                                 data-title>
-                                Connect RiteFlow Seamlessly to Your Apps
+                                Connect Modlus Seamlessly to Your Apps
                             </h2>
                             <p class="mt-4 md:mt-5 tracking-[0.1px] text-white/80 overflow-hidden" data-excerpt>
-                                Riteflow combines smart automation, analytics, and real-time insights to streamline how
+                                Modlus combines smart automation, analytics, and real-time insights to streamline how
                                 your
                                 team works — no matter the industry or size.
                             </p>
@@ -577,7 +577,7 @@
                                     Our Top Notch Features
                                 </h2>
                                 <p class="mt-4 md:mt-5 tracking-[0.1px] text-white/80 overflow-hidden" data-excerpt>
-                                    From daily tasks to complex operations, Riteflow's AI tools help you save time,
+                                    From daily tasks to complex operations, Modlus's AI tools help you save time,
                                     reduce
                                     errors, and scale your business faster — all in one unified
                                 </p>
@@ -849,7 +849,7 @@
                                 Your Journey to Agentic System Excellence
                             </h2>
                             <p class="mt-4 md:mt-5 tracking-[0.1px] text-white/80 overflow-hidden" data-excerpt>
-                                Riteflow combines smart automation, analytics, and real-time insights to streamline how
+                                Modlus combines smart automation, analytics, and real-time insights to streamline how
                                 your
                                 team works — no matter the industry or size.
                             </p>
@@ -1110,7 +1110,7 @@
                             <h2 class="gradient-text text-3xl sm:text-4xl lg:text-5xl xl:text-[51px] !leading-[1.2] font-semibold -tracking-[0.4px] overflow-hidden"
                                 data-title>Trusted by professionals, loved by every teams.</h2>
                             <p class="mt-4 md:mt-5 text-offWhite/80 overflow-hidden" data-excerpt>From startups to
-                                global enterprises, our users share how Riteflow's AI tools help them work smarter,
+                                global enterprises, our users share how Modlus's AI tools help them work smarter,
                                 faster, and more efficiently.</p>
                         </div>
                         <div class="relative" data-lag="0.3">
@@ -1133,7 +1133,7 @@
                                                 </div>
                                             </div>
                                             <div class="my-4 md:my-5 lg:my-6 gradient-border w-full h-px"></div>
-                                            <p class="text-offWhite">Riteflow has completely transformed the way we
+                                            <p class="text-offWhite">Modlus has completely transformed the way we
                                                 manage projects. The automation features </p>
                                         </div>
                                     </div>
@@ -1154,7 +1154,7 @@
                                             </div>
                                             <div class="my-4 md:my-5 lg:my-6 gradient-border w-full h-px"></div>
                                             <p class="text-offWhite">With real-time insights, we make faster, better
-                                                decisions. Riteflow is now a core part of our daily workflow.</p>
+                                                decisions. Modlus is now a core part of our daily workflow.</p>
                                         </div>
                                     </div>
                                     <div class="">
@@ -1174,7 +1174,7 @@
                                             </div>
                                             <div class="my-4 md:my-5 lg:my-6 gradient-border w-full h-px"></div>
                                             <p class="text-offWhite">Real-time analytics help us spot issues before they
-                                                become problems. Riteflow keeps us proactive.</p>
+                                                become problems. Modlus keeps us proactive.</p>
                                         </div>
                                     </div>
                                     <div class="">
@@ -1193,7 +1193,7 @@
                                                 </div>
                                             </div>
                                             <div class="my-4 md:my-5 lg:my-6 gradient-border w-full h-px"></div>
-                                            <p class="text-offWhite">Riteflow has completely transformed the way we
+                                            <p class="text-offWhite">Modlus has completely transformed the way we
                                                 manage projects. The automation features </p>
                                         </div>
                                     </div>
@@ -1214,7 +1214,7 @@
                                             </div>
                                             <div class="my-4 md:my-5 lg:my-6 gradient-border w-full h-px"></div>
                                             <p class="text-offWhite">With real-time insights, we make faster, better
-                                                decisions. Riteflow is now a core part of our daily workflow.</p>
+                                                decisions. Modlus is now a core part of our daily workflow.</p>
                                         </div>
                                     </div>
                                     <div class="">
@@ -1234,7 +1234,7 @@
                                             </div>
                                             <div class="my-4 md:my-5 lg:my-6 gradient-border w-full h-px"></div>
                                             <p class="text-offWhite">Real-time analytics help us spot issues before they
-                                                become problems. Riteflow keeps us proactive.</p>
+                                                become problems. Modlus keeps us proactive.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1416,7 +1416,7 @@
                                             </div>
                                             <div class="my-4 md:my-5 lg:my-6 gradient-border w-full h-px"></div>
                                             <p class="text-offWhite">Lead tracking is now effortless. Our close rate has
-                                                improved significantly since using Riteflow.</p>
+                                                improved significantly since using Modlus.</p>
                                         </div>
                                     </div>
                                     <div class="">
@@ -1476,7 +1476,7 @@
                                             </div>
                                             <div class="my-4 md:my-5 lg:my-6 gradient-border w-full h-px"></div>
                                             <p class="text-offWhite">Lead tracking is now effortless. Our close rate has
-                                                improved significantly since using Riteflow.</p>
+                                                improved significantly since using Modlus.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1499,7 +1499,7 @@
                                 <div class="w-full max-w-[400px] sm:max-w-[590px] text-center sm:text-left">
                                     <h3 data-title
                                         class="gradient-text !leading-[1.2] text-3xl md:text-4xl lg:text-5xl xl:text-[51px] font-semibold">
-                                        Connect RiteFlow Seamlessly to Your Apps</h3>
+                                        Connect Modlus Seamlessly to Your Apps</h3>
                                     <p data-excerpt class="mt-4 sm:mt-5">Plug our AI into the tools you already
                                         love—Slack, Zapier, Salesforce, Notion, and more. Sync data instantly, automate
                                         platforms, and keep every workflow.</p>

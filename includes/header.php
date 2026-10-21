@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from html.electronthemes.com/riteflow/home-v1.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Oct 2026 07:32:09 GMT -->
+<!-- Mirrored from html.electronthemes.com/Modlus/home-v1.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Oct 2026 07:32:09 GMT -->
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="RiteFlow – AI SaaS & Automation HTML Template for startups and tech businesses.">
+    <meta name="description" content="Modlus – AI SaaS & Automation HTML Template for startups and tech businesses.">
     <title>MODLUS</title>
     <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml" sizes="32x32">
     <!-- Fonts -->
@@ -67,7 +67,7 @@
             <div class="border-container">
                 <div class="header-wrapper flex items-center justify-between gap-5 relative py-3 lg:py-0">
                     <a href="index.php" class="logo">
-                        <img src="assets/img/logo.svg" alt="RiteFlow company logo">
+                        <img src="assets/img/logo.svg" alt="Modlus company logo">
                     </a>
                     <div class="main-menu">
                         <ul class="">

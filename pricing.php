@@ -238,8 +238,8 @@
             <!-- Section Title -->
             <div class="max-w-[450px] sm:max-w-[520px] lg:max-w-[600px] mx-auto text-center mb-10 sm:mb-12 md:mb-16 xl:mb-20" data-section-title>
                 <span class="badge-button mb-5 " data-subtitle>Product Comparison</span>
-                <h2 class="gradient-text text-3xl sm:text-4xl lg:text-5xl xl:text-[51px] !leading-[1.2] font-semibold -tracking-[0.4px] overflow-hidden" data-title>See How RiteFlow Clearly Stacks Up to Others</h2>
-                <p class="mt-4 md:mt-5 text-offWhite/80 overflow-hidden" data-excerpt>Compare features, pricing, and performance across leading AI platforms. Discover why teams choose RiteFlow for speed, simplicity, and smarter results.</p>
+                <h2 class="gradient-text text-3xl sm:text-4xl lg:text-5xl xl:text-[51px] !leading-[1.2] font-semibold -tracking-[0.4px] overflow-hidden" data-title>See How Modlus Clearly Stacks Up to Others</h2>
+                <p class="mt-4 md:mt-5 text-offWhite/80 overflow-hidden" data-excerpt>Compare features, pricing, and performance across leading AI platforms. Discover why teams choose Modlus for speed, simplicity, and smarter results.</p>
             </div>
             <!-- Comparison Table -->
             <div data-sttr-wrapper data-lag="0.05">
@@ -519,8 +519,8 @@
         <div class="border-container section-spacing-lg">
             <div class="max-w-[450px] sm:max-w-[520px] lg:max-w-[600px] mx-auto text-center mb-10 sm:mb-12 md:mb-16 xl:mb-20" data-section-title>
                 <span class="badge-button mb-5 !hidden" data-subtitle></span>
-                <h2 class="gradient-text text-3xl sm:text-4xl lg:text-5xl xl:text-[51px] !leading-[1.2] font-semibold -tracking-[0.4px] overflow-hidden" data-title>Frequently Asked Questions About RiteFlow</h2>
-                <p class="mt-4 md:mt-5 text-offWhite/80 overflow-hidden" data-excerpt>Get quick answers about our AI tools, features, and services. Learn how RiteFlow helps you simplify work, boost creativity, and achieve smarter results.</p>
+                <h2 class="gradient-text text-3xl sm:text-4xl lg:text-5xl xl:text-[51px] !leading-[1.2] font-semibold -tracking-[0.4px] overflow-hidden" data-title>Frequently Asked Questions About Modlus</h2>
+                <p class="mt-4 md:mt-5 text-offWhite/80 overflow-hidden" data-excerpt>Get quick answers about our AI tools, features, and services. Learn how Modlus helps you simplify work, boost creativity, and achieve smarter results.</p>
             </div>
 
             <!-- FAQ Accordion -->
@@ -528,7 +528,7 @@
                 <!-- Single FAQ -->
                 <div class="single-faq p-4 sm:p-5 rounded-20 border border-lineColor/70 bg-blue" data-sttr-card>
                     <div class="faq-head cursor-pointer duration-300 flex items-center justify-between gap-5">
-                        <button class="font-medium text-lg sm:text-xl text-left text-offWhite font-dmSans cursor-pointer">What is RiteFlow?
+                        <button class="font-medium text-lg sm:text-xl text-left text-offWhite font-dmSans cursor-pointer">What is Modlus?
                         </button>
                         <div class="plus">
                             <span></span>
@@ -537,7 +537,7 @@
                     </div>
                     <div class="faq-body hidden">
                         <div class="mt-4 sm:mt-5 sm:max-w-[90%]">
-                            <p class="text-offWhite/60">RiteFlow is a next-generation AI writing platform designed to help creators,
+                            <p class="text-offWhite/60">Modlus is a next-generation AI writing platform designed to help creators,
                                 entrepreneurs, and teams produce high-quality content faster and smarter. It blends advanced
                                 language models with real-time context awareness, allowing you to generate human-sounding writing
                                 that feels natural, emotionally intelligent, and aligned with your brand's voice.</p>
@@ -548,7 +548,7 @@
                 <div class="single-faq p-4 sm:p-5 rounded-20 border border-lineColor/70 bg-blue" data-sttr-card>
                     <div class="faq-head cursor-pointer duration-300 flex items-center justify-between gap-5">
                         <button class="font-medium text-lg sm:text-xl text-left text-offWhite font-dmSans cursor-pointer">Who can use
-                            RiteFlow?</button>
+                            Modlus?</button>
                         <div class="plus">
                             <span></span>
                             <span></span>
@@ -556,11 +556,11 @@
                     </div>
                     <div class="faq-body hidden">
                         <div class="mt-4 sm:mt-5 sm:max-w-[90%]">
-                            <p class="text-offWhite/60">RiteFlow is for anyone who wants to write better, faster, and smarter. It's
+                            <p class="text-offWhite/60">Modlus is for anyone who wants to write better, faster, and smarter. It's
                                 perfect for creators, marketers, entrepreneurs, and teams who need to produce high-quality content
-                                without wasting time. With advanced AI, RiteFlow understands your tone, audience, and goals —
+                                without wasting time. With advanced AI, Modlus understands your tone, audience, and goals —
                                 helping you craft blogs, ads, emails, and website copy that sound natural and professional. Whether
-                                you're running a business, growing a brand, or sharing ideas online, RiteFlow gives you the power to
+                                you're running a business, growing a brand, or sharing ideas online, Modlus gives you the power to
                                 write confidently and consistently in your unique voice.</p>
                         </div>
                     </div>
@@ -569,7 +569,7 @@
                 <div class="single-faq p-4 sm:p-5 rounded-20 border border-lineColor/70 bg-blue" data-sttr-card>
                     <div class="faq-head cursor-pointer duration-300 flex items-center justify-between gap-5">
                         <button class="font-medium text-lg sm:text-xl text-left text-offWhite font-dmSans cursor-pointer">Do I need technical
-                            skills to use RiteFlow tools?</button>
+                            skills to use Modlus tools?</button>
                         <div class="plus">
                             <span></span>
                             <span></span>
@@ -577,13 +577,13 @@
                     </div>
                     <div class="faq-body hidden">
                         <div class="mt-4 sm:mt-5 sm:max-w-[90%]">
-                            <p class="text-offWhite/60">RiteFlow is built for everyone — no technical background required. You don't
+                            <p class="text-offWhite/60">Modlus is built for everyone — no technical background required. You don't
                                 need to know coding, SEO tools, or any complex writing software to use it. The platform is designed
                                 with simplicity in mind, featuring a clean and intuitive interface that guides you every step of the
                                 way. All you have to do is describe what you want to write — whether it's a blog post, product
-                                description, ad copy, or email — and RiteFlow's AI instantly transforms your ideas into
+                                description, ad copy, or email — and Modlus's AI instantly transforms your ideas into
                                 professional-quality content. It removes the learning curve, making advanced AI writing accessible
-                                to anyone, from beginners to experts. With RiteFlow, great writing no longer depends on technical
+                                to anyone, from beginners to experts. With Modlus, great writing no longer depends on technical
                                 skill — just your creativity and vision.</p>
                         </div>
                     </div>
@@ -592,7 +592,7 @@
                 <div class="single-faq p-4 sm:p-5 rounded-20 border border-lineColor/70 bg-blue" data-sttr-card>
                     <div class="faq-head cursor-pointer duration-300 flex items-center justify-between gap-5">
                         <button class="font-medium text-lg sm:text-xl text-left text-offWhite font-dmSans cursor-pointer">Is my data safe with
-                            RiteFlow?</button>
+                            Modlus?</button>
                         <div class="plus">
                             <span></span>
                             <span></span>
@@ -600,7 +600,7 @@
                     </div>
                     <div class="faq-body hidden">
                         <div class="mt-4 sm:mt-5 sm:max-w-[90%]">
-                            <p class="text-offWhite/60">Your data is safe with RiteFlow. We use industry-standard security at every
+                            <p class="text-offWhite/60">Your data is safe with Modlus. We use industry-standard security at every
                                 step: encryption in transit and at rest, secure authentication, and strict access controls so only
                                 you (and explicitly authorized teammates, if you invite them) can view your workspace. Your prompts,
                                 files, and generated content are never sold or shared, and we don't use your private data to train
@@ -614,7 +614,7 @@
                 <!-- Single FAQ -->
                 <div class="single-faq p-4 sm:p-5 rounded-20 border border-lineColor/70 bg-blue" data-sttr-card>
                     <div class="faq-head cursor-pointer duration-300 flex items-center justify-between gap-5">
-                        <button class="font-medium text-lg sm:text-xl text-left text-offWhite font-dmSans cursor-pointer">How can RiteFlow improve
+                        <button class="font-medium text-lg sm:text-xl text-left text-offWhite font-dmSans cursor-pointer">How can Modlus improve
                             my workflow?</button>
                         <div class="plus">
                             <span></span>
@@ -623,12 +623,12 @@
                     </div>
                     <div class="faq-body hidden">
                         <div class="mt-4 sm:mt-5 sm:max-w-[90%]">
-                            <p class="text-offWhite/60">RiteFlow improves your workflow by turning time-consuming writing tasks into
+                            <p class="text-offWhite/60">Modlus improves your workflow by turning time-consuming writing tasks into
                                 fast, seamless processes. It helps you brainstorm ideas, outline articles, and generate polished
                                 content within minutes — eliminating writer's block and repetitive manual work. The platform adapts
                                 to your goals, whether you're creating blog posts, ad copy, or emails, ensuring consistent tone and
                                 style across everything you produce. With AI-assisted editing, SEO optimization, and smart
-                                suggestions, RiteFlow streamlines your entire content creation process, allowing you to focus on
+                                suggestions, Modlus streamlines your entire content creation process, allowing you to focus on
                                 creativity and strategy instead of formatting or rewriting. In short, it boosts productivity,
                                 consistency, and content quality — all in one place.</p>
                         </div>
@@ -646,9 +646,9 @@
                     </div>
                     <div class="faq-body hidden">
                         <div class="mt-4 sm:mt-5 sm:max-w-[90%]">
-                            <p class="text-offWhite/60">Need help? We're here for you—anytime. Open the RiteFlow dashboard to start
+                            <p class="text-offWhite/60">Need help? We're here for you—anytime. Open the Modlus dashboard to start
                                 a live chat with a real human for instant troubleshooting, onboarding guidance, or best-practice
-                                tips. Prefer email? Write to support@riteflow.ai and include screenshots or files—our team typically
+                                tips. Prefer email? Write to support@Modlus.ai and include screenshots or files—our team typically
                                 replies within 24 hours. For self-serve answers, browse the Help Center/FAQ for step-by-step guides,
                                 billing info, and feature walkthroughs. You can also submit a feedback/request form to suggest
                                 improvements or report bugs; we'll triage, keep you updated, and escalate complex issues to
@@ -685,7 +685,7 @@
                     <!-- Content -->
                     <div class="w-full sm:w-[80%] lg:w-full max-w-[400px] md:max-w-[580px] relative z-1" data-news-content>
                         <h3 data-news-title class="gradient-text leading-[1.2]! text-4xl md:text-5xl lg:text-[51px] font-semibold">Start automating today. Let us handle the tasks.</h3>
-                        <p data-news-excerpt class="mt-4 sm:mt-5">Unlock the power of AI with RiteFlow. Simplify your work, boost creativity, and stay ahead — start your smarter journey now.</p>
+                        <p data-news-excerpt class="mt-4 sm:mt-5">Unlock the power of AI with Modlus. Simplify your work, boost creativity, and stay ahead — start your smarter journey now.</p>
                         <div class="mt-6 sm:mt-8 lg:mt-10 flex justify-start gap-3 sm:gap-4 flex-wrap" data-news-button>
                             <div data-news-btn>
                                 <a href="javascript:void(0)" class="button-primary inline-flex items-center gap-2.5 justify-center px-[22px] py-3 text-white font-medium text-sm leading-none rounded-[10px] relative z-1 overflow-hidden text-center">

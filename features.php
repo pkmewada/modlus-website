@@ -35,7 +35,7 @@
                      How You Might Be Helped by Our Features
                  </h2>
                  <p class="mt-4 md:mt-5 tracking-[0.1px] text-white/80 overflow-hidden" data-excerpt>
-                     Riteflow combines smart automation, analytics, and real-time insights to streamline how your
+                     Modlus combines smart automation, analytics, and real-time insights to streamline how your
                      team works — no matter the industry or size.
                  </p>
              </div>
@@ -390,7 +390,7 @@
                      Advantages that help your team work smarter
                  </h2>
                  <p class="mt-4 md:mt-5 tracking-[0.1px] text-white/80 overflow-hidden" data-excerpt>
-                     Riteflow combines smart automation, analytics, and real-time insights to streamline how your
+                     Modlus combines smart automation, analytics, and real-time insights to streamline how your
                      team works — no matter the industry or size.
                  </p>
              </div>
@@ -519,7 +519,7 @@
                      <!-- Content -->
                      <div class="w-full sm:w-[80%] lg:w-full max-w-[400px] md:max-w-[580px] relative z-1" data-news-content>
                          <h3 data-news-title class="gradient-text leading-[1.2]! text-4xl md:text-5xl lg:text-[51px] font-semibold">Start automating today. Let us handle the tasks.</h3>
-                         <p data-news-excerpt class="mt-4 sm:mt-5">Unlock the power of AI with RiteFlow. Simplify your work, boost creativity, and stay ahead — start your smarter journey now.</p>
+                         <p data-news-excerpt class="mt-4 sm:mt-5">Unlock the power of AI with Modlus. Simplify your work, boost creativity, and stay ahead — start your smarter journey now.</p>
                          <div class="mt-6 sm:mt-8 lg:mt-10 flex justify-start gap-3 sm:gap-4 flex-wrap" data-news-button>
                              <div data-news-btn>
                                  <a href="javascript:void(0)" class="button-primary inline-flex items-center gap-2.5 justify-center px-[22px] py-3 text-white font-medium text-sm leading-none rounded-[10px] relative z-1 overflow-hidden text-center">

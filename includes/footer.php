@@ -189,7 +189,7 @@
                             </div>
                             <div class="mt-4 sm:mt-12 flex items-center justify-center md:justify-between gap-4 flex-col md:flex-row pt-5 lg:pt-6 border-t border-lineColor/50 overflow-hidden relative z-50"
                                 data-sttr-card>
-                                <p class="text-white/80 text-center">Copyright &copy; 2025 Riteflow Inc. All Rights
+                                <p class="text-white/80 text-center">Copyright &copy; 2025 Modlus Inc. All Rights
                                     Reserved</p>
                                 <div class="flex items-center gap-2 sm:gap-5 flex-wrap sm:flex-nowrap justify-center">
                                     <a href="ai-policy.html"
@@ -204,7 +204,7 @@
                             <div class="relative overflow-hidden" data-sttr-card>
                                 <img src="assets/img/footer-logo-shape.svg" alt="Decorative footer background shape"
                                     class="absolute top-0 left-0 w-fit z-10" data-lag="0.1">
-                                <img src="assets/img/footer-logo.svg" alt="RiteFlow footer logo" data-lag="0.1">
+                                <img src="assets/img/footer-logo.svg" alt="Modlus footer logo" data-lag="0.1">
                             </div>
                         </div>
                     </div>
@@ -760,6 +760,6 @@
     <script src="assets/js/main.js"></script>
 </body>
 
-<!-- Mirrored from html.electronthemes.com/riteflow/home-v1.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Oct 2026 07:32:17 GMT -->
+<!-- Mirrored from html.electronthemes.com/Modlus/home-v1.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Oct 2026 07:32:17 GMT -->
 
 </html>
