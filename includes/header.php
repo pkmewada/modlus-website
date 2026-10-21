@@ -34,7 +34,7 @@
         <div
             class="loader-footer fixed bottom-6 z-[99999] left-0 right-0 flex flex-wrap justify-between px-5 sm:px-12 items-center text-white/80 text-sm font-light tracking-[3px] gap-5">
             <div class="loader-logo">
-                <img src="assets/img/logo.svg" alt="logo">
+                <img src="logo.png" alt="logo">
             </div>
             <div class="loader-percent">0%</div>
             <div class="loader-loading">Loading...</div>
@@ -67,7 +67,7 @@
             <div class="border-container">
                 <div class="header-wrapper flex items-center justify-between gap-5 relative py-3 lg:py-0">
                     <a href="index.php" class="logo">
-                        <img src="assets/img/logo.svg" alt="Modlus company logo">
+                        <img src="logo.png" alt="Modlus company logo">
                     </a>
                     <div class="main-menu">
                         <ul class="">
